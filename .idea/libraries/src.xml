@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/test/core/src" />
+      <root url="file://$USER_HOME$/Downloads/test/desktop/src" />
+    </SOURCES>
+  </library>
+</component>

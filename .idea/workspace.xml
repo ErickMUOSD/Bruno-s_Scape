@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fb4623e-51b9-4403-b3b7-d2dbe738303d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RqopiPkfRjN3lC0fBDIxZHMt58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fonts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emili\IdeaProjects\Games\Fonts" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\Starfish_chapter04\src" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\assets" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\assets\assets_chapter02" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emili\IdeaProjects\Games\Fonts" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\img" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\assets" />
+      <recent name="C:\Users\Emili\IdeaProjects\Games\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Inicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inicio" />
+      <module name="Starfish_chapter04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <module name="Starfish_chapter04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <module name="Starfish_chapter04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_tests" />
+      <module name="Starfish_chapter04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Starfish_chapter04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Inicio" />
+        <item itemvalue="Application.Main_tests" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Launcher (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fb4623e-51b9-4403-b3b7-d2dbe738303d" name="Default Changelist" comment="" />
+      <created>1570404171772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570404171772</updated>
+      <workItem from="1570404176450" duration="788000" />
+      <workItem from="1570405060482" duration="285000" />
+      <workItem from="1570405403933" duration="177000" />
+      <workItem from="1570405592958" duration="907000" />
+      <workItem from="1570406936476" duration="4468000" />
+      <workItem from="1570416772432" duration="33000" />
+      <workItem from="1570457386570" duration="164000" />
+      <workItem from="1570461424651" duration="9000" />
+      <workItem from="1570648056930" duration="145000" />
+      <workItem from="1572814386425" duration="993000" />
+      <workItem from="1572830535388" duration="4251000" />
+      <workItem from="1572834816486" duration="2535000" />
+      <workItem from="1572879230002" duration="2937000" />
+      <workItem from="1572926502584" duration="4684000" />
+      <workItem from="1573012938806" duration="1202000" />
+      <workItem from="1573071025740" duration="661000" />
+      <workItem from="1573096943330" duration="5841000" />
+      <workItem from="1573232980439" duration="2659000" />
+      <workItem from="1573505567101" duration="380000" />
+      <workItem from="1573530315442" duration="475000" />
+      <workItem from="1573530952337" duration="261000" />
+      <workItem from="1573531404645" duration="5579000" />
+      <workItem from="1573537608907" duration="32000" />
+      <workItem from="1573537694820" duration="2538000" />
+      <workItem from="1573615173646" duration="908000" />
+      <workItem from="1573657323743" duration="6341000" />
+      <workItem from="1573675558495" duration="3010000" />
+      <workItem from="1573688933122" duration="7721000" />
+      <workItem from="1573697032670" duration="20000" />
+      <workItem from="1573756468190" duration="599000" />
+      <workItem from="1573762464062" duration="4170000" />
+      <workItem from="1573778623687" duration="4417000" />
+      <workItem from="1574122991095" duration="2979000" />
+      <workItem from="1574133292340" duration="4860000" />
+      <workItem from="1574221083313" duration="3049000" />
+      <workItem from="1574224686208" duration="1171000" />
+      <workItem from="1574271801815" duration="93000" />
+      <workItem from="1574278190209" duration="33000" />
+      <workItem from="1574278253852" duration="122000" />
+      <workItem from="1574302601061" duration="3012000" />
+      <workItem from="1574305644629" duration="149000" />
+      <workItem from="1574305810995" duration="45000" />
+      <workItem from="1574542855328" duration="25000" />
+      <workItem from="1574627911292" duration="7008000" />
+      <workItem from="1574694046983" duration="846000" />
+      <workItem from="1574698735690" duration="21000" />
+      <workItem from="1574738345183" duration="2522000" />
+      <workItem from="1574741238440" duration="3260000" />
+      <workItem from="1574780831378" duration="7445000" />
+      <workItem from="1574823971654" duration="10806000" />
+      <workItem from="1574899684672" duration="7930000" />
+      <workItem from="1574916219973" duration="9285000" />
+      <workItem from="1574927691245" duration="1531000" />
+      <workItem from="1574946838132" duration="7553000" />
+      <workItem from="1574968560002" duration="309000" />
+      <workItem from="1574968951222" duration="4351000" />
+      <workItem from="1575390798106" duration="1266000" />
+      <workItem from="1575401868999" duration="2760000" />
+      <workItem from="1575477563986" duration="189000" />
+      <workItem from="1576777943254" duration="607000" />
+      <workItem from="1577209680751" duration="303000" />
+      <workItem from="1577211148257" duration="4000" />
+      <workItem from="1577384524738" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/OneDrive/Escritorio/Java/Java Game Development with LibGDX, 2nd Edition/Source JGD/java-game-dev-LibGDX-master/Ch02 Starfish Collector/+libs/gdx.jar!/com/badlogic/gdx/scenes/scene2d/Actor.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
